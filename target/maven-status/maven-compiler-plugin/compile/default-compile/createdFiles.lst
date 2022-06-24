@@ -1,0 +1,6 @@
+co\unicauca\products\domain\service\CustomerService.class
+co\unicauca\products\domain\entity\Customer.class
+co\unicauca\products\presentation\rest\CustomerController.class
+co\unicauca\products\access\ICustomerRepository.class
+co\unicauca\products\AppConfiguration.class
+co\unicauca\products\access\ICustomerRepositoryImplArrays.class
